@@ -27,7 +27,7 @@ This project allows you to **view, create, update, and delete users** with both 
 <img width="1843" height="505" alt="Screenshot 2025-09-04 231112" src="https://github.com/user-attachments/assets/dba30e79-6496-44a0-ab1d-0e5e5d6d5ce4" />
 -- Search by username or email:
 <img width="891" height="519" alt="Screenshot 2025-09-04 231126" src="https://github.com/user-attachments/assets/4f9afa56-68e2-4132-9cd4-77af57c59386" />
--- Add new user:
+  -- Add new user:
 <img width="1613" height="709" alt="Screenshot 2025-09-04 231201" src="https://github.com/user-attachments/assets/e16386bc-9649-4303-a268-00b9e0720fcd" />
 
 <img width="833" height="653" alt="Screenshot 2025-09-04 231325" src="https://github.com/user-attachments/assets/4569bb73-0fe7-4839-b503-8cf6d8891c9f" />
