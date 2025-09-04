@@ -24,7 +24,27 @@ This project allows you to **view, create, update, and delete users** with both 
   
 ###Application Features:
 Displays the users on the board:
-<img width="1648" height="499" alt="Screenshot 2025-09-04 160410" src="https://github.com/user-attachments/assets/0f763dd0-c06b-42b8-bf86-bd2d877bef72" />
+<img width="1843" height="505" alt="Screenshot 2025-09-04 231112" src="https://github.com/user-attachments/assets/dba30e79-6496-44a0-ab1d-0e5e5d6d5ce4" />
+
+<img width="891" height="519" alt="Screenshot 2025-09-04 231126" src="https://github.com/user-attachments/assets/4f9afa56-68e2-4132-9cd4-77af57c59386" />
+<img width="1613" height="709" alt="Screenshot 2025-09-04 231201" src="https://github.com/user-attachments/assets/e16386bc-9649-4303-a268-00b9e0720fcd" />
+
+<img width="833" height="653" alt="Screenshot 2025-09-04 231325" src="https://github.com/user-attachments/assets/4569bb73-0fe7-4839-b503-8cf6d8891c9f" />
+
+<img width="859" height="664" alt="Screenshot 2025-09-04 231412" src="https://github.com/user-attachments/assets/a42b1809-477d-4d33-a26d-cfe75041bf5b" />
+
+
+<img width="836" height="652" alt="Screenshot 2025-09-04 231439" src="https://github.com/user-attachments/assets/56aa2612-6a9d-4cb7-ab69-2f804935c2eb" />
+
+<img width="839" height="649" alt="Screenshot 2025-09-04 231458" src="https://github.com/user-attachments/assets/ec42321d-da3f-4f41-8c46-d9240d788058" />
+
+<img width="536" height="398" alt="Screenshot 2025-09-04 231519" src="https://github.com/user-attachments/assets/5e78533f-b343-404b-806b-9017ad2c0463" />
+
+<img width="1734" height="429" alt="Screenshot 2025-09-04 231529" src="https://github.com/user-attachments/assets/b7867b93-9f30-4b45-8f31-fc50615f0182" />
+
+<img width="1784" height="483" alt="Screenshot 2025-09-04 231555" src="https://github.com/user-attachments/assets/a3ca9eca-e346-4c5d-9532-067bc6fc4c2e" />
+
+
 
 ### Backend
 - 🔗 RESTful API endpoints to:
