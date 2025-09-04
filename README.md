@@ -69,3 +69,53 @@ This project allows you to **view, create, update, and delete users** with both 
 - Server-side validation (required fields, valid email)
 - Graceful error handling (user not found, invalid data, etc.)
 
+### Set Up Instructions
+
+### 1. Clone the Repository
+- git clone https://github.com/Ammuleshwari/User-Management-Dashboard.git
+cd User-Management-Dashboard
+
+### 2. Backend Setup
+- cd backend
+
+### Install dependencies
+
+- npm install
+
+### Create a .env file (inside the /src of backend)
+- .env
+- Update .env with the values:
+- PORT=5000
+- MONGO_URI=create the db with user-manegement in mongodb atlas and paste the connection url
+- CORS_ORIGIN=http://localhost:5173
+- NODE_ENV=development
+
+### Start the backend server
+- npm start
+- Runs on: http://localhost:5000
+
+### 3. Frontend Setup
+- cd frontend
+
+### Install dependencies
+- npm install
+Start the frontend
+- npm run dev
+- Runs on: http://localhost:5173
+
+### 4. API Endpoints (Backend) with postman 
+
+GET /api/users → Get all users
+
+GET /api/users/:id → Get a user by ID
+
+POST /api/users → Create a new user
+
+PUT /api/users/:id → Update a user
+
+DELETE /api/users/:id → Delete a user
+
+- Make sure MongoDB is running (local or Atlas).
+
+
+
