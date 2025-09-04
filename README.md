@@ -37,6 +37,7 @@ This project allows you to **view, create, update, and delete users** with both 
 
 <img width="859" height="664" alt="Screenshot 2025-09-04 231412" src="https://github.com/user-attachments/assets/a42b1809-477d-4d33-a26d-cfe75041bf5b" />
 
+-- Click on Edit button of particular user to edit the user details
 
 <img width="836" height="652" alt="Screenshot 2025-09-04 231439" src="https://github.com/user-attachments/assets/56aa2612-6a9d-4cb7-ab69-2f804935c2eb" />
 
