@@ -21,6 +21,10 @@ This project allows you to **view, create, update, and delete users** with both 
 - Ability to edit and delete users
 - Client-side form validation (required fields, valid email, etc.)
 - Clean and responsive UI
+  
+###Application Features:
+<img width="1594" height="517" alt="Screenshot 2025-09-04 154949" src="https://github.com/user-attachments/assets/c621f9bc-dd00-4917-934a-6d3ad0764ca8" />
+
 
 ### Backend
 - 🔗 RESTful API endpoints to:
