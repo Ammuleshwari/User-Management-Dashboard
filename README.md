@@ -23,8 +23,8 @@ This project allows you to **view, create, update, and delete users** with both 
 - Clean and responsive UI
   
 ###Application Features:
-<img width="1594" height="517" alt="Screenshot 2025-09-04 154949" src="https://github.com/user-attachments/assets/c621f9bc-dd00-4917-934a-6d3ad0764ca8" />
-
+Displays the users on the board:
+<img width="1648" height="499" alt="Screenshot 2025-09-04 160410" src="https://github.com/user-attachments/assets/0f763dd0-c06b-42b8-bf86-bd2d877bef72" />
 
 ### Backend
 - 🔗 RESTful API endpoints to:
