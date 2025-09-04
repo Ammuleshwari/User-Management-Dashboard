@@ -43,6 +43,8 @@ This project allows you to **view, create, update, and delete users** with both 
 
 <img width="839" height="649" alt="Screenshot 2025-09-04 231458" src="https://github.com/user-attachments/assets/ec42321d-da3f-4f41-8c46-d9240d788058" />
 
+--Click on delete icon to delete the user permanently 
+
 <img width="536" height="398" alt="Screenshot 2025-09-04 231519" src="https://github.com/user-attachments/assets/5e78533f-b343-404b-806b-9017ad2c0463" />
 
 <img width="1734" height="429" alt="Screenshot 2025-09-04 231529" src="https://github.com/user-attachments/assets/b7867b93-9f30-4b45-8f31-fc50615f0182" />
