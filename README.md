@@ -22,7 +22,7 @@ This project allows you to **view, create, update, and delete users** with both 
 - Client-side form validation (required fields, valid email, etc.)
 - Clean and responsive UI
   
-###Application Features:
+**Application Features**:
 --Displays the users on the board:
 <img width="1843" height="505" alt="Screenshot 2025-09-04 231112" src="https://github.com/user-attachments/assets/dba30e79-6496-44a0-ab1d-0e5e5d6d5ce4" />
 -- Search by username or email:
